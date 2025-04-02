@@ -1,3 +1,4 @@
+'use strict';
 
 //Alerts:
 
@@ -10,7 +11,7 @@ alert(`Your name is `+userName+`!`);
 
 //Tsak #2:
 
-let deleteItem = confirm("Are you sure want to delete this item?");
+let deleteItem = confirm('Are you sure want to delete this item?');
 
 if (deleteItem) {
   alert('Your item is deleted!');
