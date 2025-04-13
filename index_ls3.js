@@ -1,9 +1,5 @@
 'use strict'
 
-//מגישים:
-//ליאון מברין
-//יאיל סאלם
-
 //Math Functions:
 
 // Math Functions - Task #5:
@@ -94,8 +90,8 @@ console.log("\nTrue or False - Task #6 output:");
 /*
 let message;
 
-login == 'Employee' || login == 'Director' ? message == 'Hello' :
-  login == '' ? message == 'No login' : message == '';
+login === 'Employee' || login === 'Director' ? message = 'Hello' :
+  login === '' ? message = 'No login' : message = '';
 */
 
 
